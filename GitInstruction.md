@@ -114,7 +114,11 @@ git branch
 
 Источники:
 Шпаргалка по консольным командам Git (очень подробная) https://github.com/cyberspacedk/Git-commands
+
 https://git-scm.com/
+
 https://www.atlassian.com/ru/git/glossary
+
 https://proglib.io/p/git-for-half-an-hour
+
 https://javarush.com/groups/posts/2683-nachalo-rabotih-s-git-podrobnihy-gayd-dlja-novichkov
